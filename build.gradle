@@ -26,7 +26,7 @@ dependencies {
     // Use JUnit test framework
     testCompile 'junit:junit:4.12'
 }
-task task1	{
+task display	{
 	doLast	{
 		print "USN:1BI23CS246 NAME:Vinaykumar Gunjalli"
 		}
